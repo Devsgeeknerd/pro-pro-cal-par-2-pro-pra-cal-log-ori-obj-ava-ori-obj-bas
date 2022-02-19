@@ -7,6 +7,12 @@
 * ***static*** (Padrão)
 > Que dizer estático.
 
+* ***absolute***
+> Ele fica flutuando em relação ao item anterior a ele.
+>
+>Podemos falar em posição ele está em relação acima, abaixo, a esquerda ou a direita.
+
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
