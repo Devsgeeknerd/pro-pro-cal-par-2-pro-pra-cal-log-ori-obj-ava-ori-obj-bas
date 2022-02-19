@@ -12,6 +12,8 @@
 >
 >Podemos falar em posição ele está em relação acima, abaixo, a esquerda ou a direita.
 
+* ***fixed***
+> Ele é uma posição fixa.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
