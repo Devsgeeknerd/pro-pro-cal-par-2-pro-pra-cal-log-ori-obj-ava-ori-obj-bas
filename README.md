@@ -15,6 +15,11 @@
 * ***fixed***
 > Ele é uma posição fixa.
 
+* ***relative***
+> Basicamente conseguimos mudar aprofundidade de alguns itens.
+> 
+>Podemos deixar um item acima do outro.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
