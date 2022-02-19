@@ -4,6 +4,9 @@
 * ***position***
 > É basicamente conseguir posicionar determinado elemento em um local da tela.
 
+* ***static*** (Padrão)
+> Que dizer estático.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
